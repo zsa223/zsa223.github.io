@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: 우리가 처음만난날
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
