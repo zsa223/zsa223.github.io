@@ -10,18 +10,14 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 
 ## An exhibit of Markdown!
 
-왜안돼는거야 갑자기
+왜안돼 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NtCLawkvGmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-<video width="640" height="360" controls>   
-  <source src="/assets/videos/MVI_9702.mp4" type="video/mp4">  
-  Your browser does not support the video tag. 
+<video width="640" height="360" controls>
+  <source src="http://127.0.0.1:4000/assets/videos/20240518_132134.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
-
 
 Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
