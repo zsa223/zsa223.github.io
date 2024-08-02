@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: ![IMG_9428](/Users/jaewonkim/Desktop/편집본/2024.06.01 [서우와 수목원데이트]/IMG_9428.jpg)
   opacity: 0.618
   background: "#000"
   height: "100vh"
