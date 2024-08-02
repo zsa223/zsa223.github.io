@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 우리가 처음만난날
-subtitle: 동영상 테스트
+subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: https://youtu.be/NtCLawkvGmQ
+  video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -16,9 +16,6 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-  <iframe src="https://www.youtube.com/embed/NtCLawkvGmQ?autoplay=1&loop=1&start=8.5&playlist=NtCLawkvGmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
 tags: jekyll theme yat
 top: 1
 sidebar: []
@@ -77,3 +74,4 @@ p1 = Person("John", 36)
 print(p1.name)
 print(p1.age)
 ```
+
