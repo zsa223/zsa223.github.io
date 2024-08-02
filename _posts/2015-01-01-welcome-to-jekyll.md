@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 우리가 처음만난날
-subtitle: A awesome static site generator.
+subtitle: 동영상 테스트
 author: Jeffrey
 categories: jekyll
 banner:
@@ -16,9 +16,13 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+  <iframe src="https://www.youtube.com/embed/NtCLawkvGmQ?autoplay=1&loop=1&start=8.5&playlist=NtCLawkvGmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 tags: jekyll theme yat
 top: 1
 sidebar: []
+
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
