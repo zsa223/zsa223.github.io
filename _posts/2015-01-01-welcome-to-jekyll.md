@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 우리가 처음만난날
+title: 재원 테스트
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: https://www.youtube.com/embed/NtCLawkvGmQ
   loop: true
   volume: 0.8
   start_at: 8.5
