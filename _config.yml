@@ -162,7 +162,7 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "안녕 서우야?"
+    heading: "생일축하해 ~! "
     subheading: "Hallo meine Liebe?"
     banner: "Your image url"
 
