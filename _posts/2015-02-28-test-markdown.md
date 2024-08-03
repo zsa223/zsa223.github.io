@@ -4,6 +4,7 @@ title: Test markdown
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [test]
+
 ---
 
 You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
@@ -15,23 +16,14 @@ You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll 
 Here's a useless table:
 
 | Number | Next number | Previous number |
-| :------ |:--: | :--- |
+| :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
 
+
 How about a yummy crepe?
-
-
-
-![20240518_120338](/images/2015-02-28-test-markdown/20240518_120338.jpg)
-
-
-
-
-
-
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
