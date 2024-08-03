@@ -160,7 +160,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
   home:
     heading: "안녕 서우야?"
     subheading: "Hallo meine Liebe?"
