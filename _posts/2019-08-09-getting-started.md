@@ -13,7 +13,7 @@ media_subpath: '/posts/20180809'
 
 ## Creating a Site Repository
 
-123When creating your site repository, you have two options depending on your needs:
+김재원입니다.
 
 ### Option 1. Using the Starter (Recommended)
 
