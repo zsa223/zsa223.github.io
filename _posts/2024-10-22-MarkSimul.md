@@ -23,19 +23,19 @@ typora-root-url: ../
 ### To win in **Markstrat**, especially in the early rounds, you need to focus on a few key strategies:
 
 ### 1. **Focus on a Single Market Segment**:
-   - It's critical to focus on one specific market segment rather than spreading resources thin across multiple segments. Concentrating on one segment allows you to dominate it, while trying to target multiple can dilute your efforts, especially in terms of advertising and budget allocation【43†source】.
-   - For Sonite products, pick the most profitable or largest segment and ensure your marketing and product features align with the needs of that segment【44†source】.
+   - It's critical to focus on one specific market segment rather than spreading resources thin across multiple segments. Concentrating on one segment allows you to dominate it, while trying to target multiple can dilute your efforts, especially in terms of advertising and budget allocation
+   - For Sonite products, pick the most profitable or largest segment and ensure your marketing and product features align with the needs of that segment
 
 ### 2. **Advertising and Pricing Strategy**:
    - Your advertising spend should be proportionate to what your competitors are spending, as this directly impacts your market share. For new products, focus on building **brand awareness** with no specific objectives early on, especially if the product is entering a new market
    - In terms of pricing, aggressively adjust prices to differentiate from competitors. You can leverage price to stand out, as price doesn't require R&D investment
 
 ### 3. **Production and Inventory Management**:
-   - Estimating production correctly is key. Overstocking increases costs (inventory holding costs), while understocking results in lost sales, as customers will turn to competitors to fulfill their needs. Use market data and growth predictions to set production just above the minimum needed, accounting for a 20% variance【46†source】.
+   - Estimating production correctly is key. Overstocking increases costs (inventory holding costs), while understocking results in lost sales, as customers will turn to competitors to fulfill their needs. Use market data and growth predictions to set production just above the minimum needed, accounting for a 20% variance
    - Slightly **over-producing** can be beneficial if your inventory costs are low, as it acts as insurance against lost sales
 
 ### 4. **R&D Investment**:
-   - In the early rounds, avoid heavy R&D investments. While R&D becomes important in later rounds for differentiating products, early on, focus on marketing and pricing to establish a foothold in your target segment【43†source】.
+   - In the early rounds, avoid heavy R&D investments. While R&D becomes important in later rounds for differentiating products, early on, focus on marketing and pricing to establish a foothold in your target segment
 
 ### 5. **Commercial Team Allocation**:
    - Allocate your commercial team according to the shopping habits of your target market. Shifting commercial personnel between different channels (specialty stores, mass merchandisers, online stores) should reflect the preferences of your target consumer segment
