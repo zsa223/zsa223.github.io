@@ -1,0 +1,13 @@
+---
+title: Marktsimul 01
+date: 2024-09-08 14:20:00 +0200
+categories: [Markt Simul]
+tags: [Markt Simul]
+render_with_liquid: false
+typora-root-url: ../
+
+
+
+---
+
+# hi
