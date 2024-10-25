@@ -365,3 +365,71 @@ Given this data, while LOCK's strategy to focus on the Savers segment is appropr
    - By targeting both Savers and Shoppers segments, the company can diversify its risk and achieve balanced growth across multiple high-potential markets.
 
 Implementing these strategies will enable us to effectively target the Savers and Shoppers segments, leveraging their significant market sizes and growth potentials while mitigating risks associated with over-focusing on the High Earners segment. This balanced approach is expected to lead to stable and sustainable performance in the market.
+
+
+
+
+
+---
+
+## Strategien
+
+### Comprehensive Strategy Recommendations
+
+When formulating the next strategy, it is essential to focus on several key points and adopt a balanced approach. Based on a comprehensive analysis of the coach's feedback and the screenshots you provided, the following core strategies are recommended:
+
+### 1. **Enhancing Product Improvement Through Strengthened R&D**
+   - **LOCK Brand**:
+     - To improve performance in the **Savers segment**, it is crucial to enhance **design and processing power (Proc. Power)** through R&D. Currently, LOCK’s product characteristics do not meet the expectations of the Savers, necessitating the development of products that align with customer demands to increase market share.
+     - Considering the **high growth rate** of the Savers segment, continued investment in LOCK is warranted, but the products must be made more appealing.
+   
+   - **LOOP Brand**:
+     - Although sufficient advertising investment has been made in the **High Earners segment**, deficiencies in product characteristics have been identified. It is necessary to focus R&D efforts on improving **design, battery life, processing performance,** and **display** to meet the expectations of High Earners.
+     - However, since substantial resources have already been invested in the High Earners segment, **risk diversification** may require appropriate adjustments.
+
+### 2. **Segment Diversification and Risk Diversification**
+   - **Savers Segment**:
+     - The Savers segment should remain a primary target due to its high growth potential (**18.4%**) and LOCK’s established presence. By improving products, we can further expand market share in this attractive segment.
+   
+   - **Shoppers Segment**:
+     - The Shoppers segment is expected to record the highest growth rate (**28.8%**). Therefore, it is necessary to allocate resources to target this segment as part of a **diversification strategy** to effectively disperse risks. Given the rapid growth potential, focusing on the Shoppers segment will help mitigate risks associated with over-reliance on any single segment.
+
+### 3. **Optimizing Advertising and Commercial Team Allocation**
+   - **LOCK**:
+     - Feedback indicates that the commercial team allocation has been overly concentrated on **Online Stores**. Since the Savers segment is more likely to purchase from **offline stores**, it is necessary to **reallocate more personnel to Specialty Stores** to effectively target this segment.
+   
+   - **LOOP**:
+     - Increasing the commercial team allocation to **Mass Merchandising channels** is crucial. As mentioned in the feedback, the High Earners segment has a high purchase rate in large retail chains, so allocating more resources to these channels is necessary.
+
+### 4. **Budget Management and Reallocation**
+   - To utilize the available budget effectively, it is important to **appropriately distribute advertising and R&D budgets**.
+   - By concentrating advertising efforts on the **Savers** and **Shoppers** segments and simultaneously improving products through R&D, both LOCK and LOOP can achieve better performance.
+
+### 5. **Strengthening Market Trend and Competitor Analysis**
+   - Continuously monitor competitors’ activities and analyze their advertising, commercial team allocation, and R&D efforts to establish appropriate response strategies.
+   - Particularly in the High Earners market, where competitors like **NOVA, ROCK,** and **TONE** are strong, it is necessary to continuously develop differentiation strategies to maintain a competitive edge.
+
+---
+
+### **Final Strategy Summary**:
+1. **R&D**:
+   - **LOCK**: Improve **design** and **processing power**.
+   - **LOOP**: Enhance **design, battery life, processing power,** and **display**.
+   
+2. **Savers and Shoppers Segments**:
+   - Focus on these segments to diversify risks and maximize growth opportunities.
+   
+3. **Commercial Team Allocation**:
+   - **Savers**: Allocate more personnel to **Specialty Stores**.
+   - **High Earners**: Allocate more personnel to **Mass Merchandising channels**.
+   
+4. **Budget Management**:
+   - Balance the allocation of advertising and R&D budgets to maximize product improvement and growth opportunities for each brand.
+   
+
+Implementing these strategies will maximize performance, diversify risks, and establish a more advantageous position compared to competitors.
+
+---
+
+### **Conclusion:**
+By focusing on the **Savers** and **Shoppers** segments, enhancing product features through R&D, optimizing commercial team allocations, managing budgets effectively, and strengthening competitor analysis, we can achieve balanced growth and mitigate risks. This multifaceted approach will enable both LOCK and LOOP to capitalize on significant market opportunities, ensuring stable and sustainable performance in the competitive landscape.
