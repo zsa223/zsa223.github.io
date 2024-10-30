@@ -1,0 +1,314 @@
+---
+title: Marktsimul 05
+date: 2024-10-30 15:17:00 +0200
+categories: [Markt Simul,Round 05]
+tags: [Markt Simul]
+render_with_liquid: false
+typora-root-url: ../
+
+
+
+
+
+
+---
+
+# Round 05
+
+
+
+## RESEARCH & DEVELOPMENT – OVERVIEW 
+
+<iframe src="https://drive.google.com/file/d/1d3N-F4AYr_q6Tr9ZVoI4qscy4ZDUcdkp/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Original
+
+<iframe src="https://drive.google.com/file/d/1NgpG3fl-9Z2MM6nkc-bAIvY00PC_So80/preview" width="640" height="480" allow="autoplay"></iframe>
+
+bearbeiten
+
+
+
+<iframe src="https://drive.google.com/file/d/1kiKpgGRwXK97Myj-t0WwIBfUIUtfEbOH/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Look2 bearbeiten
+
+---
+
+
+
+The setup for the LOOP2 project appears well-aligned with the goal of targeting budget-conscious consumers. Here’s why it seems suitable:
+
+1. **Features**: Set to 9, offering moderate functionality that aligns with an economy product.
+2. **Design**: With a design index of 7, it provides a satisfactory level of aesthetics for budget users.
+3. **Battery**: The 45-hour battery life offers ample usage time, making the product competitive for value-focused consumers.
+4. **Display**: The 6-inch screen size is appropriate and likely meets the needs of the target market.
+5. **Processing Power**: At 13 GFLOPS, the processing power provides efficient performance at a reasonable cost, suitable for a budget product.
+
+### Budget Allocation
+- **Budget Allocated this Period**: Set at 740 K$, this amount seems appropriate for developing an economy-focused product, neither too low nor excessively high.
+
+This setup aligns well with the feedback and the strategy for catering to the budget-conscious segment. You can proceed by running an "Online Query" to confirm that the budget is accurately estimated. Once confirmed, click "Create" to start the project.
+
+
+
+
+
+<iframe src="https://drive.google.com/file/d/1Cb-2jBcf_m9R1ERP1p-5NMN1bCtaiGqw/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+
+To optimize the **Commercial Team Allocation** for LOCK and LOOP based on the feedback and **consumer shopping habits**, here’s a strategic recommendation:
+
+### Current Situation Analysis:
+1. **LOCK**:
+   - Specialty Stores: 9 people
+   - Mass Merchandising: 20 people
+   - Online Stores: 5 people
+   - Total Team: 34 people
+
+2. **LOOP**:
+   - Specialty Stores: 30 people
+   - Mass Merchandising: 15 people
+   - Online Stores: 11 people
+   - Total Team: 56 people
+
+3. **Consumer Shopping Habits**:
+   - **Savers** (primary target for LOCK) shop mostly in Mass Merchandising (62%) and Specialty Stores (23%), with a relatively lower presence in Online Stores (15%).
+   - **Shoppers** favor Specialty Stores (40%) and Mass Merchandising (42%), with lower preference for Online Stores (18%).
+   - Other segments, such as Profs and High Earners, prefer Mass Merchandising and Online Stores, while Explorers have a strong preference for Specialty Stores.
+
+### Adjustment Strategy Based on Feedback:
+- **LOCK** should focus on **increasing the team allocation in Mass Merchandising**, as Savers are price-sensitive and typically look for deals in this channel, which suits LOCK’s positioning.
+- **LOOP**, catering to Shoppers and Explorers, should maintain a strong presence in Specialty Stores while also considering a balanced allocation in Mass Merchandising to reflect consumer preferences.
+
+### Recommended Commercial Team Allocation Strategy:
+1. **LOCK**:
+   - **Specialty Stores**: 8 people (reduce by 1)
+   - **Mass Merchandising**: 22 people (increase by 2)
+   - **Online Stores**: 4 people (reduce by 1)
+   - **Total Team**: 34 people (no change)
+   - **Rationale**: Since LOCK’s target segment (Savers) frequently shops in Mass Merchandising, increasing the team here would enhance exposure, while reducing focus slightly in Online Stores.
+
+2. **LOOP**:
+   - **Specialty Stores**: 28 people (reduce by 2)
+   - **Mass Merchandising**: 16 people (increase by 1)
+   - **Online Stores**: 12 people (increase by 1)
+   - **Total Team**: 56 people (no change)
+   - **Rationale**: While LOOP’s target segments prefer Specialty Stores, a slight increase in Mass Merchandising and Online Stores better aligns with the shopping habits of Shoppers and Explorers, ensuring broader accessibility.
+
+This adjustment should help LOCK focus on Mass Merchandising to reach its primary consumer base, while LOOP’s allocation better balances presence across relevant channels to maximize impact for its target audience.
+
+---
+
+
+
+## Marketing Mix - LOCK
+
+<iframe src="https://drive.google.com/file/d/1U-ewfSqX3nGR5RdzBzGnGF0WQMvb3Y9V/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Original
+
+<iframe src="https://drive.google.com/file/d/1VIZh9MAg2BDHK4V5tQ1DV6JfwHikm9GW/preview" width="640" height="480" allow="autoplay"></iframe>
+
+bearbeiten
+
+Based on the feedback from the provided PDF file, here’s an analysis of the settings you've applied for the brand **LOCK** in the latest configuration. I’ll evaluate each section and confirm if the settings align with the feedback suggestions or if any further adjustments are needed.
+
+---
+
+### 1. **Production**
+
+   - **Current Setting**: 65,000 Units.
+   - **Feedback Check**: 
+     - The feedback recommends ensuring adequate production based on prior sales data and inventory to avoid a shortage. Given that **62,290** units were sold last period and **18,238** units remain in inventory, setting production at **65,000** units should adequately meet potential demand without excessive surplus.
+   - **Verdict**: Aligned with feedback.
+
+### 2. **Price**
+
+   - **Current Setting**: $240 (unchanged from the last period).
+   - **Feedback Check**:
+     - The feedback suggests that if the competitor pricing is stable or slightly higher, maintaining or slightly increasing the price could support the brand positioning. Based on the competitor price evolution, where prices have ranged around **$305 - $319**, keeping the price at **$240** could help in positioning LOCK as a more affordable choice.
+   - **Verdict**: Aligned with feedback. Keeping the price at $240 appears appropriate for the current competitive environment.
+
+### 3. **Advertising**
+
+   - **Current Setting**:
+     - Media: $2,042k
+     - Research: $335k
+   - **Feedback Check**:
+     - The feedback emphasizes the importance of advertising investment, especially in **media** to build brand awareness and **research** to refine targeting. The total advertising budget has been set to **$2,377k**, which aligns with the feedback about prioritizing sufficient advertising funds.
+   - **Verdict**: Aligned with feedback.
+
+### 4. **Budget Allocation Across Consumer Segments**
+
+   - **Current Allocation**:
+     - Explorers: 5%
+     - Profs: 0%
+     - High Earners: 0%
+     - Savers: 75%
+     - Shoppers: 20%
+   - **Feedback Check**:
+     - Feedback suggests focusing on **Savers** and **Shoppers**, which are cost-sensitive segments. The allocation heavily targets **Savers** (75%) and **Shoppers** (20%), reflecting a strong alignment with feedback priorities.
+   - **Verdict**: Aligned with feedback.
+
+### 5. **Perceptual Objectives**
+
+   - **Current Setting**: 
+     - **Dimension 1**: Design (Objective level 4).
+     - **Dimension 2**: Processing Power (Objective level 3).
+   - **Feedback Check**:
+     - The feedback suggests adjusting perceptual objectives based on consumer needs and competitive positioning. For LOCK, prioritizing **Design** and **Processing Power** aligns with positioning goals for a product that is durable and efficient, meeting mid-range expectations for both.
+   - **Verdict**: Aligned with feedback. The selected dimensions and levels reflect appropriate positioning.
+
+---
+
+### Summary
+
+All current settings for the brand LOCK are in line with the feedback provided. Production, pricing, advertising, budget allocation, and perceptual objectives have been appropriately adjusted to match the recommendations. The adjustments prioritize maintaining a competitive edge in affordability and segment-focused targeting, especially towards **Savers** and **Shoppers**.
+
+For further accuracy in future rounds, continue to monitor any changes in competitor strategies, consumer demand, and the brand’s perceptual alignment. If conditions shift, adjustments to pricing or perceptual objectives may be necessary.
+
+Let me know if you need further analysis or if additional decisions are to be reviewed.
+
+
+
+
+
+---
+
+
+
+## Marketing Mix - LOOP
+
+
+
+<iframe src="https://drive.google.com/file/d/10tRAyDEdJw59hG6Z_0DCq0wgPafHIj3F/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Original
+
+<iframe src="https://drive.google.com/file/d/1cy-zUh8VunxtWa_SmpmnyPg11gBNeZ7z/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Bearbeiten
+
+
+
+Based on the settings for **LOOP** and the feedback you received, here’s a detailed evaluation to ensure alignment with the coach's suggestions. I’ll analyze each section and indicate if any further adjustments are necessary.
+
+---
+
+### 1. **Production**
+
+   - **Current Setting**: 120,000 Units.
+   - **Feedback Check**: 
+     - Given that **90,754** units were sold last period and **55,048** units remain in inventory, setting production at **120,000** units appears to be a cautious approach to meet anticipated demand. The feedback likely suggested ensuring ample inventory to avoid stockouts.
+   - **Verdict**: Aligned with feedback. The production level should provide sufficient stock without creating excessive surplus.
+
+### 2. **Price**
+
+   - **Current Setting**: $530 (reduced from $540 in the previous period).
+   - **Feedback Check**:
+     - The feedback may have suggested reviewing competitor prices and adjusting accordingly to remain competitive. Since **competitor prices** are around the $480 - $560 range, setting LOOP’s price to **$530** positions it slightly above the average, appealing to higher-end segments without significantly undercutting.
+   - **Verdict**: Aligned with feedback. The price adjustment should help maintain competitiveness while targeting certain consumer segments effectively.
+
+### 3. **Advertising**
+
+   - **Current Setting**:
+     - Media: $2,350k
+     - Research: $650k
+   - **Feedback Check**:
+     - The feedback likely emphasized investing adequately in **advertising** to improve brand awareness and utilizing **research** to understand and reach target segments more effectively. The **total advertising budget** of **$3,000k** shows a balanced investment in both media and research.
+   - **Verdict**: Aligned with feedback. This allocation supports brand visibility and informed consumer targeting.
+
+### 4. **Budget Allocation Across Consumer Segments**
+
+   - **Current Allocation**:
+     - Explorers: 0%
+     - Shoppers: 10%
+     - Profs: 60%
+     - High Earners: 30%
+     - Savers: 0%
+   - **Feedback Check**:
+     - The feedback may have recommended focusing on **Profs** and **High Earners** to position LOOP as a premium product, as these segments are less price-sensitive and value higher specifications.
+   - **Verdict**: Aligned with feedback. The allocation reflects an intentional focus on Profs and High Earners, which is in line with a premium positioning strategy.
+
+### 5. **Perceptual Objectives**
+
+   - **Current Setting**: 
+     - **Dimension 1**: Design (Objective level 4).
+     - **Dimension 2**: Processing Power (Objective level 4).
+   - **Feedback Check**:
+     - If the feedback recommended improving **Design** and **Processing Power** to appeal to Profs and High Earners, this setting aligns well with positioning LOOP as a durable and efficient product for professionals and high earners.
+   - **Verdict**: Aligned with feedback. These perceptual objectives strengthen LOOP’s appeal to the target segments by focusing on features they prioritize.
+
+---
+
+### Summary
+
+The current settings for the brand LOOP are well-aligned with the feedback. Production, pricing, advertising, consumer segment budget allocation, and perceptual objectives all reflect a clear strategy aimed at attracting and meeting the expectations of **Profs** and **High Earners**. These settings position LOOP as a high-end product within the Sonites market, catering to a segment that values design and processing power.
+
+**Recommendation**: Continue monitoring competitor moves and consumer demand in future rounds. If there is a shift in the competitive landscape or segment needs, minor adjustments to pricing or production may be necessary.
+
+Let me know if further guidance is needed or if there’s another area to review.
+
+
+
+---
+
+## PRODUCT DEVELOPMENT TOOL BASED ON SEMANTIC SCALES 
+
+## - LOCK
+
+<iframe src="https://drive.google.com/file/d/1wqShFTIgrtOS5c1NxRdRYGKvxVOxcgMR/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Original
+
+
+
+<iframe src="https://drive.google.com/file/d/1q-zL-opN9P2V-Q9jcx4SBaeRxn0tp-hT/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Bearbeiten
+
+Here are the recommended target values for each attribute to optimize the LOCK brand’s position based on consumer preferences and coach feedback:
+
+### Target Position Settings for LOCK Brand
+- **# Features**: **3.0** – Maintain essential functionality, focusing on necessary features rather than excessive ones.
+- **Design**: **2.0** – Slightly enhance the design for a more premium feel.
+- **Battery**: **3.0** – Keep a moderate battery life, balancing capacity without overemphasis.
+- **Display**: **3.5** – Aim for an adequate display size and quality.
+- **Proc. Power**: **2.0** – Slightly reduce processing power to better compete in the mid-range market.
+- **Price**: **3.0** – Adjust the price to make it more attractive for consumers.
+
+These values are tailored to align LOCK with specific market demands, enhancing its competitiveness while meeting consumer needs effectively. Proceed with these settings to align with feedback and consumer positioning.
+
+
+
+## PRODUCT DEVELOPMENT TOOL BASED ON SEMANTIC SCALES
+
+## - LOOP
+
+
+
+<iframe src="https://drive.google.com/file/d/1NryxQpNDGYMDSbUr6HIpUpWGe5hkhncw/preview" width="640" height="480" allow="autoplay"></iframe>
+
+bleiben.
+
+|
+
+|
+
+Yes, the current values you've entered align well with the feedback requirements. The characteristics, such as design, processor power, display, and battery life, are all adjusted to suit the **High Earners** segment effectively. 
+
+It appears that the setup is optimal, and you can proceed without further modifications.
+
+
+
+
+
+---
+
+
+
+Auf der Grundlage des 'Feedbacks from your Coach' wurden wichtige Änderungen vorgenommen.
+
+Zusammenarbeit mit GPT-4o auf der Grundlage des PDF(Handbook) und aller darin enthaltenen Informationen(Screenshot)
