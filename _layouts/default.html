@@ -97,5 +97,58 @@ layout: compress
     {% include js-selector.html lang=lang %}
 
     {% include_cached search-loader.html lang=lang %}
+
+    <script>
+      // 기존의 SimpleJekyllSearch 설정에 필터링 추가
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('search-results'),
+        json: '{{ '/assets/js/data/search.json' | relative_url }}',
+        searchResultTemplate: `
+          <article class="px-1 px-sm-2 px-lg-4 px-xl-0">
+            <header>
+              <h2><a href="{url}">{title}</a></h2>
+              <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
+                {categories}
+                {tags}
+              </div>
+            </header>
+            <p>{snippet}</p>
+          </article>
+        `,
+        noResultsText: '<p class="mt-5">검색 결과가 없습니다.</p>',
+        templateMiddleware: function(prop, value, template) {
+          // 'tags' 프로퍼티에서 'Diary' 태그를 가진 경우 제외
+          if (prop === 'tags' && value.includes('Diary')) {
+            return '';
+          }
+          return value;
+        },
+        success: function(data) {
+          // 검색 결과에서 'Diary' 태그가 있는 항목들을 필터링하여 제외
+          data = data.filter(item => !item.tags.includes("Diary"));
+          const resultsContainer = document.getElementById('search-results');
+          resultsContainer.innerHTML = '';
+          if (data.length > 0) {
+            data.forEach(item => {
+              resultsContainer.innerHTML += `
+                <article class="px-1 px-sm-2 px-lg-4 px-xl-0">
+                  <header>
+                    <h2><a href="${item.url}">${item.title}</a></h2>
+                    <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
+                      ${item.categories}
+                      ${item.tags}
+                    </div>
+                  </header>
+                  <p>${item.snippet}</p>
+                </article>
+              `;
+            });
+          } else {
+            resultsContainer.innerHTML = '<p class="mt-5">검색 결과가 없습니다.</p>';
+          }
+        }
+      });
+    </script>
 </body>
 </html>

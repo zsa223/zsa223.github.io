@@ -197,6 +197,11 @@ defaults:
 
 excerpt_separator: "<!--more-->"
 
+# _config.yml 파일에서 검색 데이터 설정
+search:
+  exclude:
+    - exclude_from_search: true
+
 
 sass:
   style: compressed

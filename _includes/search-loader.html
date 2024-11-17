@@ -39,8 +39,29 @@
         if (value === '') {
           return `${value}`;
         } else {
+          // Diary 태그가 있는 경우 결과에서 제외
+          if (value.includes('Diary')) {
+            return '';  // 이 부분은 Diary 태그가 있는 결과를 제외시킵니다.
+          }
           return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
         }
+      }
+      return value;
+    },
+    // 검색 결과를 필터링하여 Diary 태그가 포함된 포스트를 제외
+    success: function(results) {
+      // Diary 태그가 포함된 포스트를 필터링합니다.
+      const filteredResults = results.filter(result => !result.tags.includes('Diary'));
+      const resultsContainer = document.getElementById('search-results');
+
+      if (filteredResults.length === 0) {
+        resultsContainer.innerHTML = '{{ not_found }}';
+      } else {
+        resultsContainer.innerHTML = '';
+        filteredResults.forEach(result => {
+          const html = this.compileTemplate(result);
+          resultsContainer.insertAdjacentHTML('beforeend', html);
+        });
       }
     }
   });
