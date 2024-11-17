@@ -35,7 +35,7 @@ layout: compress
                               <h2 style="text-align: center; margin: 20px 0;">보호된 컨텐츠입니다.</h2>
                               <div style="max-width: 300px; margin: 0 auto; text-align: center;">
                                   <input type="password" id="password-input" placeholder="비밀번호를 입력하세요" style="width: 100%; padding: 8px; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px;">
-                                  <button onclick="checkPassword()" style="background: #007bff; color: white; border: none; padding: 8px 20px; border-radius: 4px; cursor: pointer;">입력</button>
+                                  <button id="password-submit" style="background: #007bff; color: white; border: none; padding: 8px 20px; border-radius: 4px; cursor: pointer;">입력</button>
                                   <p id="error-message" style="color: red; display: none;">비밀번호가 일치하지 않습니다.</p>
                               </div>
                           </div>
@@ -98,22 +98,28 @@ layout: compress
     {% include_cached search-loader.html lang=lang %}
 
     <script>
-        function checkPassword() {
-            const password = document.getElementById('password-input').value;
-            const encryptedPassword = "b66e006887ffc2f80406dab915ecddb2"; // 비밀번호의 MD5 해시
+        document.addEventListener('DOMContentLoaded', function() {
+            function checkPassword() {
+                const password = document.getElementById('password-input').value;
+                const encryptedPassword = "b66e006887ffc2f80406dab915ecddb2"; // 비밀번호의 MD5 해시
 
-            if (CryptoJS.MD5(password).toString().toLowerCase() === encryptedPassword) {
-                document.getElementById('protected-content').style.display = 'block';
-                document.getElementById('password-prompt').style.display = 'none';
-            } else {
-                document.getElementById('error-message').style.display = 'block';
+                if (CryptoJS.MD5(password).toString().toLowerCase() === encryptedPassword) {
+                    document.getElementById('protected-content').style.display = 'block';
+                    document.getElementById('password-prompt').style.display = 'none';
+                } else {
+                    document.getElementById('error-message').style.display = 'block';
+                }
             }
-        }
 
-        document.getElementById('password-input')?.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                checkPassword();
-            }
+            // 엔터 키로 비밀번호 입력
+            document.getElementById('password-input').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    checkPassword();
+                }
+            });
+
+            // 버튼 클릭으로 비밀번호 확인
+            document.getElementById('password-submit').addEventListener('click', checkPassword);
         });
     </script>
 </body>
