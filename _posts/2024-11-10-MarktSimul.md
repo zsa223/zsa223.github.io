@@ -8,10 +8,6 @@ typora-root-url: ../
 
 
 
-
-
-
-
 ---
 
 # Round 07
