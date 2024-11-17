@@ -96,8 +96,17 @@ tail_includes:
   </header>
 
   <div class="content">
+  {% if page.tags contains "Diary" %}
+    <!-- Diary 태그가 있는 경우 보호된 메시지 표시 -->
+    <div class="protected-message">
+      이 글은 비밀번호로 보호된 게시글입니다. 내용을 확인하려면 비밀번호를 입력해주세요.
+    </div>
+  {% else %}
+    <!-- 일반 포스트의 경우 본문 내용 표시 -->
     {{ content }}
-  </div>
+  {% endif %}
+</div>
+
 
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->

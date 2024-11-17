@@ -188,10 +188,15 @@ defaults:
       comments: false
   - scope:
       path: ""
-      type: tabs # see `site.collections`
+      type: posts # see `site.collections`
+      tags: "Diary"
     values:
       layout: page
       permalink: /:title/
+      excerpt: "보호된 컨텐츠 입니다."
+
+excerpt_separator: "<!--more-->"
+
 
 sass:
   style: compressed
