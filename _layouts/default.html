@@ -117,20 +117,13 @@ layout: compress
           </article>
         `,
         noResultsText: '<p class="mt-5">검색 결과가 없습니다.</p>',
-        templateMiddleware: function(prop, value, template) {
-          // 'tags' 프로퍼티에서 'Diary' 태그를 가진 경우 제외
-          if (prop === 'tags' && value.includes('Diary')) {
-            return '';
-          }
-          return value;
-        },
         success: function(data) {
           // 검색 결과에서 'Diary' 태그가 있는 항목들을 필터링하여 제외
-          data = data.filter(item => !item.tags.includes("Diary"));
+          const filteredData = data.filter(item => !item.tags.includes("Diary"));
           const resultsContainer = document.getElementById('search-results');
           resultsContainer.innerHTML = '';
-          if (data.length > 0) {
-            data.forEach(item => {
+          if (filteredData.length > 0) {
+            filteredData.forEach(item => {
               resultsContainer.innerHTML += `
                 <article class="px-1 px-sm-2 px-lg-4 px-xl-0">
                   <header>
